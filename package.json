@@ -1,5 +1,9 @@
 {
   "dependencies": {
-    "react-icons": "^3.11.0"
+    "@types/react-dom": "^16.9.8",
+    "leaflet": "^1.7.1",
+    "react-icons": "^3.11.0",
+    "react-leaflet": "^2.7.0",
+    "react-router-dom": "^5.2.0"
   }
 }
